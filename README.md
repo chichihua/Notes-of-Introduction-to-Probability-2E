@@ -1,6 +1,6 @@
 - Notes of "Introduction to Probability, Second Edition" by Dimitri P. Bertsekas
 
-- Better viewed in VS Code with the extension "Markdown Preview Enhanced" or other readers that supports LaTeX
+- Better viewed in VS Code with the extension "Markdown Preview Enhanced" or other readers that support LaTeX
 
 - Only finished Chapter 1 to 5; still working on the rest
 
